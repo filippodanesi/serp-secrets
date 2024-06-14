@@ -5,6 +5,7 @@ paginate = "10" # Number of posts per page
 theme = "mainroad-child"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+enableRobotsTXT = true
 
 [Author]
   name = "Filippo Danesi"
@@ -66,3 +67,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   title = "LinkedIn"
   url = "https://youtube.com/user/username"
   icon = "linkedin.svg"
+
+[sitemap]
+  changeFreq = ''
+  disable = false
+  filename = 'sitemap.xml'
+  priority = -1
