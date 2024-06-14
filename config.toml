@@ -1,0 +1,68 @@
+baseurl = "/"
+title = "SERPsecrets"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
+
+[Author]
+  name = "Filippo Danesi"
+  bio = "I'm a SEO Technical Lead specializing in AI-driven strategies and automation, semantic SEO, web performance... you know, SEO stuff."
+  avatar = "avatar.webp"
+
+[Params]
+  description = "Advanced insights and strategies at the nexus of AI and SEO, driving the future of search engine optimization in an AI-driven world." # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true
+  pager = true
+  post_meta = ["date", "categories"] # Order of post meta information
+  mainSections = ["post", "docs"]
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+
+[menu]
+  [[menu.main]]
+    name = "Archive"
+    url = "/post/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Categories"
+    url = "/categories/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+[Params.logo]
+  title = "SERPsecrets"
+  subtitle = "Latest SEO News, Strategies, and AI Insights" # Logo subtitle
+
+[Params.sidebar]
+  home = "right"   # Configure layout for home page
+  list = "right"   # Configure layout for list pages
+  single = "right" # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.style.vars]
+  highlightColor = "#e22d30"
+  fontFamilyPrimary = "'Inter', sans-serif"
+
+[[Params.widgets.social.custom]]
+  title = "LinkedIn"
+  url = "https://youtube.com/user/username"
+  icon = "linkedin.svg"
