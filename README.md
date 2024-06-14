@@ -1,4 +1,3 @@
-
 # SERPsecrets
 
 Welcome to the SERPsecrets repository. This project contains the source code for the SERPsecrets website, which provides the latest SEO news, strategies, and AI insights. Built with Hugo, a fast and flexible static site generator, this repository is maintained and developed by Filippo Danesi, an SEO Technical Lead specializing in AI-driven strategies and automation.
@@ -58,8 +57,11 @@ To build the site for production, run:
 ```sh
 hugo
 ```
-
 The generated files will be placed in the `public/` directory, which you can then deploy to your web server.
+
+## Theme
+
+This site uses a customized version of the [Mainroad](https://github.com/Vimux/Mainroad) theme by Vimux. The theme has been forked and customized to fit the specific needs of SERPsecrets.
 
 ## Contributing
 
@@ -71,13 +73,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or need further information, feel free to contact us at [info@serpsecrets.com](mailto:info@serpsecrets.com).
+If you have any questions or need further information, feel free to contact us at info@serpsecrets.com.
 
 You can also follow us on:
-- [LinkedIn](https://www.linkedin.com/company/serpsecrets)
-- [GitHub](https://github.com/serpsecrets)
-- [Twitter](https://twitter.com/serpsecrets)
 
----
-
-Thank you for visiting our repository! We hope you find our resources valuable and insightful. Stay tuned for more updates and feel free to contribute to our project.
+*   [LinkedIn](https://www.linkedin.com/company/serpsecrets)
+*   [GitHub](https://github.com/serpsecrets)
+*   [Twitter](https://twitter.com/serpsecrets)
