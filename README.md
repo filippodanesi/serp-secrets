@@ -69,13 +69,13 @@ Contributions are welcome! If you have any improvements, bug fixes, or suggestio
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/Vimux/Mainroad/blob/master/LICENSE.md) file for details.
 
 ## Contact
 
-If you have any questions or need further information, feel free to contact us at info@serpsecrets.com.
+If you have any questions or need further information, feel free to contact us at hello@filippodanesi.it.
 
-You can also follow us on:
+You can also follow me on:
 
 *   [LinkedIn](https://www.linkedin.com/company/serpsecrets)
 *   [GitHub](https://github.com/serpsecrets)
