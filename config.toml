@@ -73,3 +73,10 @@ enableRobotsTXT = true
   disable = false
   filename = 'sitemap.xml'
   priority = -1
+
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://serp-secrets.vercel.app/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""  
