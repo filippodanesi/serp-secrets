@@ -10,7 +10,7 @@ enableRobotsTXT = true
 [Author]
   name = "Filippo Danesi"
   bio = "I'm a SEO Technical Lead specializing in AI-driven strategies and automation, semantic SEO, web performance... you know, SEO stuff."
-  avatar = "avatar.webp"
+  avatar = "img/avatar.png"
 
 [Params]
   description = "Advanced insights and strategies at the nexus of AI and SEO, driving the future of search engine optimization in an AI-driven world." # Description of your site
