@@ -4,6 +4,7 @@ authorbox: false
 sidebar: false
 layout: about
 section: about
+description: Hi, I'm Filippo, the mind behind SERPsecrets. Here, I blend my expertise in AI and SEO to deliver cutting-edge strategies and insights for digital success.
 ---
 
 ## Introduction
