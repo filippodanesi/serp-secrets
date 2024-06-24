@@ -79,3 +79,6 @@ home = ["HTML", "RSS", "JSON"]
 
 [params]
   lunrIndexOutputFilename = "index.json"
+
+[security.funcs]
+  getenv = ['^VERCEL_']
