@@ -21,7 +21,7 @@ enableRobotsTXT = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["post", "docs"]
-  googleFontsLink = "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap"
+  googleFontsLink = "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap"
 
 [menu]
   [[menu.main]]
